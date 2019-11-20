@@ -1,12 +1,12 @@
 # Webchat ABCI
 
 Webchat ABCI is an abci (abstract blockchain interface) web chat application that keeps information on Tendermint blockchains.   
-This software is released under the **MIT License**.
+This software is released under **MIT License**.
 
 ## Installation & Running
 ```
 # clone the project
-hg clone https://phirasit@bitbucket.org/phirasit/webchat-abci
+git clone https://github.com/phirasit/webchatABCI
 cd webchat-abci
 # build the project
 make build
